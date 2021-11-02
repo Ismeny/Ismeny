@@ -5,7 +5,6 @@
 <p align="left">
 <a href="https://twitter.com/ismenysaguilan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ismenysaguilan" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ismeny-saguilan-b8b32821b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismenysaguilan" height="30" width="40" /></a>
-<a href="https://instagram.com/mennnny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mennnny" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
